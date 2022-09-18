@@ -2,7 +2,7 @@
 
 A CLI app created online on repl.it. </br>
 Use this app to know how well do you know me.</br>
-I have also provided link to access this app in ABOUT section.
+Visit to see Project => [Do You Know Me Quiz](https://repl.it/@aayushbatra/DO-YOU-KNOW-ME-quiz?embed=1&output=1)
 
 ## TECHSTACK USED
 1. Javascript
